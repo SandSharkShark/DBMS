@@ -90,20 +90,8 @@
 - 文件系统存储
 
 ## 项目结构
-/DBMS---
-    ｜-/include---...
-    ｜-/src---...
-    ｜-/data---
-    ｜          ｜-/db1---
-    ｜          ｜       |-table1.txt
-    ｜          ｜       |-table2.txt
-    ｜          ｜       |-...
-    ｜          ｜-/db2
-    ｜          ｜-.../*存储数据库内容，子文件夹表示每个数据库，每个表内容分别用txt文件存储，格式类似csv*/
-    ｜
-    ｜-/build---... /*cmake构建文件*/
-    ｜-/backup---.../*数据库备份*/
-    ｜-out.log /*批处理输出日志*/
-    ｜-example.sql
-    ｜-CmakeLists.txt
+<img width="672" alt="截屏2025-01-25 下午8 54 49" src="https://github.com/user-attachments/assets/147c23a0-a04e-4b5e-8f2d-cd862928c0ea" />
+
+
+
     
